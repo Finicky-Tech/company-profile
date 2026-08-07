@@ -66,6 +66,6 @@ Here are some [Frequently Asked Questions (FAQ)](./FAQ.md) about how we work, to
 
 ## Back to docs
 
-- [Home](index.md)
-- > Intro - You are here
-- [FAQs](FAQ.md)
+> - [Home](index.md)
+> - Intro - You are here
+> - [FAQs](FAQ.md)

@@ -32,6 +32,6 @@ Have a question not covered here? [Reach out on WhatsApp](https://wa.me/message/
 
 ## Back to docs
 
-- [Home](index.md)
-- [Intro](intro.md)
-- > FAQs - You are here
+> - [Home](index.md)
+> - [Intro](intro.md)
+> - FAQs - You are here
