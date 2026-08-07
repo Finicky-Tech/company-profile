@@ -5,13 +5,9 @@ title: Finicky Technologies Ltd
 
 # Finicky Technologies Ltd
 
-This page is just a starting point, the documentation table below will help you navigate the documenation.
-
-## Documentation
-
-Below is a list of documentation for your reference
+This page is a starting point. The documentation table below will help you navigate the rest of the document.
 
 | Topic | Description                                                              | Source                      |
 |-------|--------------------------------------------------------------------------|-----------------------------|
-| Intro | A short introduction to who we are, what we do, and examples of our work | [Intro](./intro.md)      |
-| FAQ   | Answers to common questions about working with us                        | [FAQs](./FAQ.md)         |
+| Intro | A short introduction to who we are, what we do, and examples of our work | [Intro](./intro.md)         |
+| FAQ   | Answers to common questions about working with us                        | [FAQs](./FAQ.md)            |
