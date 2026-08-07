@@ -18,7 +18,7 @@ Finicky Technologies Ltd's current focus is on building websites, web applicatio
 
 We build **websites** that not only embodies your organisation, but also works smoothly for the people using it, whether its your customers, your staff, or the public.
 
-We also build **web applications** which are custom software that businesses and institutions rely on to run specific parts of their operations online, whether that's managing payments & invoicing, keeping records, verifying users, or handling day-to-day administrative work.
+We also build **web applications**. These are custom software that businesses and institutions rely on to run specific parts of their operations online, for example, managing payments & invoicing, keeping records, verifying users, or handling day-to-day administrative work. We build these based on requirements derived from your business goals as well as relevant regulatory requirements.
 
 ## Past Projects
 
@@ -48,18 +48,24 @@ A prize-draw platform for Nigerian tradespeople and professionals, with a simple
 
 ![AMAC SmartTax landing page hero section](https://res.cloudinary.com/kaygeea-tech/image/upload/v1785975563/smarttax_fe_hero_wgghuo.png "SmartTax hero section")
 
-A proposed digital tax platform for the Abuja Municipal Area Council (AMAC), built to help the council and residents manage tax records and stay compliant online. We contributed the core systems behind billing, user accounts, and tax records — including a smooth process for moving over 28,000 existing billing records onto the new system, and secure access for more than 40 users, including council staff and technical partners.
+A proposed digital tax platform for the Abuja Municipal Area Council (AMAC), built to help the council and residents manage tax records and stay compliant online. I contributed the core systems behind billing, user accounts, and tax records — including a smooth process for moving over 28,000 existing billing records onto the new system, and secure access for more than 40 users, including council staff and technical partners.
 
 ## Why Work With Us
 
-The name isn't an accident. We pay close attention to the details necessary to deliver projects as agreed, whether this is for a fast-moving consumer platform or a government system handling public records. Beyond these technical services, we are also equipped to provide supplementary legal services and consultation, to ensure that the corporate structure supporting your business is always current and aligned with business and regulatory realities.
+The name isn't an accident. We pay close attention to the details necessary to deliver projects as agreed, whether this is for a fast-moving consumer platform or a government system handling public records. Beyond these technical services, we are also equipped to provide supplementary legal consultation services, to ensure that the corporate structure supporting your business is always current and aligned with the business and regulatory realities of your industry.
 
 ## Let's Talk
 
-If any of this sounds like something you need — a new website, a custom platform, or some expert opinion on how to approach a technology problem — the easiest next step is a short discovery call. No pressure, no obligation, just a conversation to see if there's a fit.
+If you need to revamp an old website, create a new one, build a custom platform, or just some expert opinion on how to approach a technology or legal problem — the easiest next step is a short discovery call.
 
-Have questions first? Check these [Frequently Asked Questions (FAQ)](./FAQ.md) for common questions about how we work.
+Here are some [Frequently Asked Questions (FAQ)](./FAQ.md) about how we work, to help you get started.
 
 **Koyejo Adinlewa**  
 💬 [Send an enquiry on WhatsApp](https://wa.me/message/E554LMPV46OKM1)  
 ✉️ [Send an email](mailto:kaygeea.kga@gmail.com)
+
+## Back to docs
+
+- [Home](index.md)
+- > Intro - You are here
+- [FAQs](FAQ.md)

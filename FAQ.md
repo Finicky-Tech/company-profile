@@ -6,13 +6,13 @@ permalink: /faqs
 
 # Frequently Asked Questions
 
-Common questions from people exploring what it's like to work with Finicky Technologies.
+Common questions from people exploring what it's like to work with Finicky Technologies Ltd.
 
 ---
 
 ## Q: What type of websites do you build?
 
-### Two main types — a straightforward website that presents your business well (a "brochure" site, so to speak with relevant information about your product or service), or a more powerful web application that lets your visitors actually *do* things: log in, make payments, book something, manage an account. The right one depends on what you need your site to do for you
+### Two main types — a straightforward website that presents your business well (a "brochure" site, so to speak with relevant information about your product or service), or a more powerful web application that lets your visitors actually *do* things: log in, make payments, recieve a reminder, book something, manage an account etc. The right one depends on what you need your site to do for you
 
 ## Q: How do you approach security for your websites?
 
@@ -20,7 +20,7 @@ Common questions from people exploring what it's like to work with Finicky Techn
 
 ## Q: How long does it take to build a website?
 
-### It depends on what we agree the finished website needs to do. Once we've scoped that out together, a typical worst-case timeline is about 3-4 weeks.
+### It depends on what we agree the finished website needs to do. Once we've scoped that out together, a typical worst-case timeline is about 3-4 weeks
 
 ## Q: What other features can a website have?
 
@@ -29,3 +29,9 @@ Common questions from people exploring what it's like to work with Finicky Techn
 ---
 
 Have a question not covered here? [Reach out on WhatsApp](https://wa.me/message/E554LMPV46OKM1) and we'll get back to you directly.
+
+## Back to docs
+
+- [Home](index.md)
+- [Intro](intro.md)
+- > FAQs - You are here
