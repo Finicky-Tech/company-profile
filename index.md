@@ -5,7 +5,7 @@ title: Finicky Technologies Ltd
 
 # Finicky Technologies Ltd
 
-This page is just a starting point, the documentation table below will help you find your way around.
+This page is just a starting point, the documentation table below will help you navigate the documenation.
 
 ## Documentation
 
