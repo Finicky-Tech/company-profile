@@ -13,5 +13,5 @@ Below is a list of documentation for your reference
 
 | Topic | Description                                                              | Source                      |
 |-------|--------------------------------------------------------------------------|-----------------------------|
-| Intro | A short introduction to who we are, what we do, and examples of our work | [Intro](docs/intro.md)      |
-| FAQ   | Answers to common questions about working with us                        | [FAQs](docs/FAQ.md)         |
+| Intro | A short introduction to who we are, what we do, and examples of our work | [Intro](./intro.md)      |
+| FAQ   | Answers to common questions about working with us                        | [FAQs](./FAQ.md)         |
