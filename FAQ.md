@@ -20,9 +20,9 @@ Common questions from people exploring what it's like to work with Finicky Techn
 
 ## Q: How long does it take to build a website?
 
-### It depends on what we agree the finished website needs to do. Once we've scoped that out together, a typical worst-case timeline is about 2 months — often shorter, depending on complexity
+### It depends on what we agree the finished website needs to do. Once we've scoped that out together, a typical worst-case timeline is about 3-4 weeks.
 
-## Q: What other features can a website have?**
+## Q: What other features can a website have?
 
 ### It really comes down to what your business needs, but common additions include the ability to accept payments online, automatic notifications to keep your customers updated, and an admin dashboard so you can manage everything yourself without needing a developer for every small change
 
