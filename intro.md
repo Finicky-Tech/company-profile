@@ -58,7 +58,7 @@ The name isn't an accident. We pay close attention to the details necessary to d
 
 If you need to revamp an old website, create a new one, build a custom platform, or just some expert opinion on how to approach a technology or legal problem — the easiest next step is a short discovery call.
 
-Here are some [Frequently Asked Questions (FAQ)](./FAQ.md) about how we work, to help you get started.
+To help you get started, here are some [Frequently Asked Questions (FAQ)](./FAQ.md) about how we work.
 
 **Koyejo Adinlewa**  
 💬 [Send an enquiry on WhatsApp](https://wa.me/message/E554LMPV46OKM1)  
@@ -66,6 +66,6 @@ Here are some [Frequently Asked Questions (FAQ)](./FAQ.md) about how we work, to
 
 ## Back to docs
 
-- [Home](index.md)
-- > Intro - You are here
-- [FAQs](FAQ.md)
+> - [Home](index.md)
+> - Intro - You are here
+> - [FAQs](FAQ.md)
