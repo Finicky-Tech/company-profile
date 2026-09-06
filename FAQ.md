@@ -32,7 +32,7 @@ Common questions from people exploring what it's like to work with Finicky Techn
 
 ## Q: What do I need to get started?
 
-> 1 or 2 example websites you like the look of is a great starting point, along with having your business process clearly defined, which will help guide how we plan out what goes into your site. You'll also need hosting sorted out from the start, since that's what actually gets your site live online, and it's worth knowing that costs like this continue even after launch, not just during the build.
+> 1 or 2 example websites you like the look of is a great starting point, along with having your business process clearly defined, which will help guide how we plan out what goes into your site. You'll also need hosting sorted out from the start (we will help with this), since that's what actually gets your site live online, and it's worth knowing that costs like this continue even after launch, not just during the build.
 
 ---
 
