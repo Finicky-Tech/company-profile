@@ -62,7 +62,7 @@ To help you get started, here are some [Frequently Asked Questions (FAQ)](./FAQ.
 
 **Koyejo Adinlewa**  
 💬 [Send an enquiry on WhatsApp](https://wa.me/message/E554LMPV46OKM1)  
-✉️ [Send an email](mailto:kaygeea.kga@gmail.com)
+✉️ [Send an email](mailto:koyejoa@finickytech.com)
 
 ## Back to docs
 
